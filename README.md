@@ -1,5 +1,6 @@
 # AUDITING CLOUD ACTIVITY USING AWS CLOUDTRAIL
-
+# NAME : MIRTYUNJAY S
+# REG NUMBER :212224040190
 ## Aim:
 To enable and analyze AWS CloudTrail logs to audit user and resource activities in a cloud
 environment.
